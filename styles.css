@@ -140,5 +140,6 @@ h1{
 	.summary-body{
 		width: 375px;
 		margin-top: 70px;
+		margin-bottom: auto;
 	}
 }
