@@ -129,12 +129,7 @@ h1{
 	color: var(--clr-neutral-300);
 }
 
-.attribution{
-	font-size: 0.5em;
-	padding: 5em;
-	margin-top: 10em;
 
-}
 
 @media screen and (min-width: 400px){
 	.summary-body{
