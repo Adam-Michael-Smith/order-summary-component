@@ -128,8 +128,12 @@ h1{
 	font-size: 0.8rem;
 	color: var(--clr-neutral-300);
 }
+.attribution{
+	font-size: 0.5em;
+	padding: 5em;
+	margin-top: 10em;
 
-
+}
 
 @media screen and (min-width: 400px){
 	.summary-body{
